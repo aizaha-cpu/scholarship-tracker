@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pyjwt
+httpx
+apscheduler
+python-dateutil
